@@ -1,9 +1,11 @@
 # google-homepage
-<!DOCTYPE html>
+
 <html>
 
 <head>
+<center>
 	<Title>Google Homepage Test</Title>
+</center>
 </head>
 
 <body>

@@ -8,11 +8,11 @@
 
 <body>
 	<h1>Test</h1><br>
-	<img src=“googlelogo.png”>
+	<a href=“http://www.theodinproject.com”>Test Page</a>
 
-	<h2>First Section</h2>
+<img src=“googlelogo.png”>
 
-	<a href=“http://www.theodinproject.com/web-development-101/html-css?ref=lnav”>Google Test Page</a>
+	
 
 </body>
 

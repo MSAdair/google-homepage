@@ -3,13 +3,12 @@
 <html>
 
 <head>
-<center>
-	<Title>Google Homepage Test</Title>
-</center>
+<center><Title>Google Homepage Test</Title></center>
 </head>
 
 <body>
-	<h1>Test</h1>
+	<h1>Test</h1><br>
+	<img src=“googlelogo.png”>
 
 	<h2>First Section</h2>
 
